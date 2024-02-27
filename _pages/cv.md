@@ -11,35 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+* B.S. in Electrical and Computer Engineering (major), Computer Science (minor), Oregon State University, 2020
+* Honor: Magna Cum Laude, Dean's list, International Provost Scholarship
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 10/2021-now: Natural Language Processing Specialist at Natural Language Processing department, VinBigdata
+  * Research topics: 
+    * Opinion mining, sentiment analysis
+    * language modeling, large language models
+    * information extraction
+  * Projects:
+    * Military Bank (MB) Real time opinion mining and analysis
+    * Vinbase: conversational chatbot system
+    * Vivi: VinFast's Vietnamese Virtual Assistant
+    * ViGPT/VBD-LLAMA: Vietnamese Large Language Models
+    * Callbot Center: Automatic customer support and service provision
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 10/2020-06/2021: Machine Learning Engineer Trainee
+  * Vingroup's AI Engineer Training Program
+  * Trained by professors from Hanoi University of Science and Technology, VNU University of Engineering and Technology as well as Vietnamese professionals from VinBigData, VinAi, VinBrain
+  * Interned at Department of Speech (and) Language Processing department, VinBigData
+  * Topics: Machine Reading Comprehension, Voice Biometrics
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-2019: Teaching Assistant
+  * Oregon State University, School of Electrical Engineering and Computer Science
+  * Duties included: holding lab sessions and office hours, grading lab results.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python, C, C++
+* Deep learning frameworks: pytorch, transformers, tensorrt, fastertransformers, onnx, etc.
+* Other frameworks: mySQL, AWS, elasticsearch
 
 Publications
 ======
@@ -47,18 +51,19 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+   -->
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
